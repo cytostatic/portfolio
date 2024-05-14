@@ -36,8 +36,7 @@ const CONFIG = {
           title: 'HybridForms',
           description:
             'Digital forms, dynamic checklists, mobile inspection documentation, maintenance protocols, acceptance reports, construction site diaries, quality controls, audits',
-          imageUrl:
-            './hf_icon_512x512.png',
+          imageUrl: './hf_icon_512x512.png',
           link: 'https://www.hybridforms.net/',
         },
       ],
@@ -87,28 +86,28 @@ const CONFIG = {
     'Django',
     'Git',
     'Docker',
-    'Webpack'
+    'Webpack',
   ],
   experiences: [
-    { 
-        company: 'icomedias GmbH | HybridForms',
-        position: 'Senior Frontend Developer',
-        from: 'February 2019',
-        to: 'Present',
-        companyLink: 'https://www.icomedias.com'
+    {
+      company: 'icomedias GmbH | HybridForms',
+      position: 'Senior Frontend Developer',
+      from: 'February 2019',
+      to: 'Present',
+      companyLink: 'https://www.icomedias.com',
     },
-    { 
-        company: 'pixelcrab | IT services',
-        position: 'CEO, Frontend Developer',
-        from: 'April 2016',
-        to: ' August 2018'
+    {
+      company: 'pixelcrab | IT services',
+      position: 'CEO, Frontend Developer',
+      from: 'April 2016',
+      to: ' August 2018',
     },
-    { 
-        company: 'Fronius International GmbH',
-        position: 'Hardware/Software Developer Embedded Systems',
-        from: 'January 2016',
-        to: 'February 2016'
-    }
+    {
+      company: 'Fronius International GmbH',
+      position: 'Hardware/Software Developer Embedded Systems',
+      from: 'January 2016',
+      to: 'February 2016',
+    },
   ],
   certifications: [
     // {
@@ -119,12 +118,12 @@ const CONFIG = {
     // },
   ],
   educations: [
-    { 
-        institution: 'HTL LiTec Linz (Paul-Hahn-Str.)',
-        degree: 'high-school diploma for Mechatronics and Automation technology',
-        from: '2008',
-        to: '2014'
-    }
+    {
+      institution: 'HTL LiTec Linz (Paul-Hahn-Str.)',
+      degree: 'high-school diploma for Mechatronics and Automation technology',
+      from: '2008',
+      to: '2014',
+    },
   ],
   publications: [
     // {
